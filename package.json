@@ -1,0 +1,24 @@
+{
+  "name": "cypress2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirillKurganov/Cypress2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillKurganov/Cypress2/issues"
+  },
+  "homepage": "https://github.com/KirillKurganov/Cypress2#readme",
+  "dependencies": {
+    "cypress": "9.6.0",
+    "dotenv": "^16.0.0"
+  }
+}

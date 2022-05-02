@@ -1,0 +1,6 @@
+{
+  "defaultCommandTimeout": 5000,
+  "pageLoadTimeout": 30000,
+  "slowTestThreshold": 60000,
+  "scrollBehavior": "center"
+}
